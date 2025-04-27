@@ -5,4 +5,4 @@
 
 • .github/ "Semilla de Cierre - Tareas" 
 
-LICENSE, CONTRIBUTING.md y CHANGELOG.md
+• LICENSE/ CONTRIBUTING.md y CHANGELOG.md
